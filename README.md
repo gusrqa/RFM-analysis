@@ -81,6 +81,5 @@ All data belongs to the original author as hosted on Kaggle.
 
 ## 🚀 Author
 
-Developed by [Your Name] – [GitHub Profile or LinkedIn (Optional)]  
-For questions or collaboration, feel free to reach out!
-
+Developed by Gustavo Quezada
+gusr.quezada@gamil.com
