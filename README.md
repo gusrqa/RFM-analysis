@@ -82,4 +82,4 @@ All data belongs to the original author as hosted on Kaggle.
 ## 🚀 Author
 
 Developed by Gustavo Quezada
-gusr.quezada@gamil.com
+gusr.quezada@gmail.com
